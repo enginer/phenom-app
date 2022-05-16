@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/phenom-app/static/css/main.60c4b306.chunk.css",
-    "main.js": "/phenom-app/static/js/main.53dde69f.chunk.js",
-    "main.js.map": "/phenom-app/static/js/main.53dde69f.chunk.js.map",
+    "main.css": "/phenom-app/static/css/main.9579a539.chunk.css",
+    "main.js": "/phenom-app/static/js/main.0e83e1e8.chunk.js",
+    "main.js.map": "/phenom-app/static/js/main.0e83e1e8.chunk.js.map",
     "runtime-main.js": "/phenom-app/static/js/runtime-main.75c057e7.js",
     "runtime-main.js.map": "/phenom-app/static/js/runtime-main.75c057e7.js.map",
-    "static/js/2.4667193c.chunk.js": "/phenom-app/static/js/2.4667193c.chunk.js",
-    "static/js/2.4667193c.chunk.js.map": "/phenom-app/static/js/2.4667193c.chunk.js.map",
+    "static/js/2.f897d979.chunk.js": "/phenom-app/static/js/2.f897d979.chunk.js",
+    "static/js/2.f897d979.chunk.js.map": "/phenom-app/static/js/2.f897d979.chunk.js.map",
     "index.html": "/phenom-app/index.html",
-    "static/css/main.60c4b306.chunk.css.map": "/phenom-app/static/css/main.60c4b306.chunk.css.map",
-    "static/js/2.4667193c.chunk.js.LICENSE.txt": "/phenom-app/static/js/2.4667193c.chunk.js.LICENSE.txt",
+    "static/css/main.9579a539.chunk.css.map": "/phenom-app/static/css/main.9579a539.chunk.css.map",
+    "static/js/2.f897d979.chunk.js.LICENSE.txt": "/phenom-app/static/js/2.f897d979.chunk.js.LICENSE.txt",
     "static/media/bg.9c266f0c.jpg": "/phenom-app/static/media/bg.9c266f0c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.75c057e7.js",
-    "static/js/2.4667193c.chunk.js",
-    "static/css/main.60c4b306.chunk.css",
-    "static/js/main.53dde69f.chunk.js"
+    "static/js/2.f897d979.chunk.js",
+    "static/css/main.9579a539.chunk.css",
+    "static/js/main.0e83e1e8.chunk.js"
   ]
 }
